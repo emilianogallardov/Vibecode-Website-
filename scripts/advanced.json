@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "reset": "git stash -u 2>/dev/null || true && npm ci",
+    "checkpoint": "node scripts/checkpoint.js",
+    "restore": "node scripts/restore.js",
+    "test:watch": "vitest",
+    "preview": "vite preview",
+    "check:all": "npm run check && npm run test && npm run build"
+  },
+  "description": "Advanced commands for experienced developers. Run these with: npm run <command>"
+}

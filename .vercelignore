@@ -1,0 +1,12 @@
+README.md
+.git
+.github
+node_modules
+tests
+coverage
+*.log
+.DS_Store
+.env*.local
+docs
+recipes
+.ai/sessions

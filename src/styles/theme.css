@@ -1,0 +1,20 @@
+/* Theme tokens (match tailwind.config.js extended colors that use hsl(var(--token))) */
+@layer base {
+  :root {
+    --primary: 220 90% 56%;
+    --secondary: 260 60% 65%;
+    --background: 0 0% 100%;
+    --foreground: 222 84% 4%;
+  }
+  .dark {
+    --primary: 220 90% 56%;
+    --secondary: 260 60% 65%;
+    --background: 222 84% 4%;
+    --foreground: 210 40% 98%;
+  }
+}
+
+/* Optional utility shims (keep minimal) */
+@layer utilities {
+  /* .text-balance { text-wrap: balance; } */
+}

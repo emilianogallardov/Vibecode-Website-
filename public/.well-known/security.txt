@@ -1,0 +1,43 @@
+# Our security policy and reporting instructions
+# For more information, see: https://securitytxt.org/
+
+Contact: mailto:security@example.com
+Contact: https://example.com/security
+Expires: 2026-12-31T23:59:59.000Z
+Encryption: https://example.com/pgp-key.txt
+Acknowledgments: https://example.com/security/hall-of-fame
+Preferred-Languages: en
+Canonical: https://example.com/.well-known/security.txt
+Policy: https://example.com/security/disclosure-policy
+
+# Reporting Security Issues
+
+We take security seriously. If you discover a security vulnerability, please:
+
+1. Email us at security@example.com with details
+2. Allow us a reasonable time to respond before public disclosure
+3. Do not exploit the vulnerability beyond verification
+4. Do not access or modify user data
+
+# Scope
+
+In scope:
+- All subdomains of example.com
+- Mobile applications
+- API endpoints
+
+Out of scope:
+- Denial of Service (DoS/DDoS)
+- Social engineering attacks
+- Physical attacks
+- Reports from automated tools without validation
+
+# Safe Harbor
+
+We will not pursue legal action against security researchers who:
+- Make good faith efforts to comply with this policy
+- Only access their own accounts for testing
+- Do not intentionally harm users or our systems
+- Do not violate privacy or destroy data
+
+Thank you for helping keep our users safe!

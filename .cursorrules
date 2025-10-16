@@ -1,0 +1,17 @@
+# Protected files - DO NOT MODIFY
+src/core/**
+api/_lib/guard.ts
+api/_lib/response.ts
+
+# User can modify
+src/app/**
+src/styles/**
+
+# Rules
+- Never modify core hooks or utilities
+- Follow existing patterns in src/app
+- Use @ alias for imports from src
+- All components must be TypeScript with proper types
+- Use Tailwind classes for styling
+- Keep components pure and testable
+- API calls should use relative paths (/api/...)
