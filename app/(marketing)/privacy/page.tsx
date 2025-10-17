@@ -50,7 +50,7 @@ export default function PrivacyPage() {
             <li>Create and manage your account</li>
             <li>Send you technical notices and support messages</li>
             <li>Respond to your comments and questions</li>
-            <li>Send newsletters if you've opted in</li>
+            <li>Send newsletters if you&apos;ve opted in</li>
             <li>Monitor and analyze trends, usage, and activities</li>
             <li>Detect, prevent, and address technical issues and security threats</li>
             <li>Comply with legal obligations</li>
@@ -122,7 +122,7 @@ export default function PrivacyPage() {
           <ul className="list-disc pl-6 mb-4 space-y-2">
             <li><strong>Access:</strong> Request a copy of your personal data</li>
             <li><strong>Rectification:</strong> Correct inaccurate or incomplete data</li>
-            <li><strong>Erasure:</strong> Request deletion of your data ("right to be forgotten")</li>
+            <li><strong>Erasure:</strong> Request deletion of your data (&quot;right to be forgotten&quot;)</li>
             <li><strong>Portability:</strong> Receive your data in a machine-readable format</li>
             <li><strong>Objection:</strong> Object to processing of your data</li>
             <li><strong>Restriction:</strong> Request restriction of processing</li>
@@ -145,7 +145,7 @@ export default function PrivacyPage() {
         </section>
 
         <section className="mb-8">
-          <h2 className="text-2xl font-semibold mb-4">8. Children's Privacy</h2>
+          <h2 className="text-2xl font-semibold mb-4">8. Children&apos;s Privacy</h2>
           <p className="mb-4">
             Our service is not intended for children under 13. We do not knowingly collect information from children under 13.
             If you believe we have collected information from a child under 13, please contact us immediately.
@@ -167,7 +167,7 @@ export default function PrivacyPage() {
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2">
             <li>Posting the new policy on this page</li>
-            <li>Updating the "Last Updated" date</li>
+            <li>Updating the &quot;Last Updated&quot; date</li>
             <li>Sending an email notification (for significant changes)</li>
           </ul>
           <p className="mb-4">
@@ -209,11 +209,11 @@ export default function PrivacyPage() {
         <div className="bg-gray-100 p-6 rounded-lg mt-12">
           <h3 className="text-lg font-semibold mb-2">Summary (TL;DR)</h3>
           <ul className="list-disc pl-6 space-y-1 text-sm">
-            <li>We collect only what's necessary to provide our service</li>
+            <li>We collect only what&apos;s necessary to provide our service</li>
             <li>We do NOT sell your data</li>
             <li>Your data is encrypted and secured</li>
             <li>You can request deletion at any time</li>
-            <li>We're GDPR and CCPA compliant</li>
+            <li>We&apos;re GDPR and CCPA compliant</li>
           </ul>
         </div>
       </div>

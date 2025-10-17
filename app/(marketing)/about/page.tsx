@@ -15,7 +15,7 @@ export default function AboutPage() {
       <div className="max-w-4xl mx-auto text-center mb-16">
         <h1 className="text-4xl md:text-5xl font-bold mb-6">About Us</h1>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-          We're building modern, production-ready web infrastructure that developers love to use.
+          We&apos;re building modern, production-ready web infrastructure that developers love to use.
           Our mission is to provide the best foundation for your next project.
         </p>
       </div>
@@ -34,7 +34,7 @@ export default function AboutPage() {
               makes your product special.
             </p>
             <p className="text-lg text-gray-700">
-              We're committed to open-source, best practices, and helping developers ship faster without
+              We&apos;re committed to open-source, best practices, and helping developers ship faster without
               compromising on quality or security.
             </p>
           </div>
@@ -180,7 +180,7 @@ export default function AboutPage() {
       <section className="max-w-4xl mx-auto mb-20">
         <h2 className="text-3xl font-bold text-center mb-12">Our Team</h2>
         <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-          We're a team of passionate developers, designers, and security experts committed to building
+          We&apos;re a team of passionate developers, designers, and security experts committed to building
           the best developer tools and infrastructure.
         </p>
         <div className="text-center">

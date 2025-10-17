@@ -43,6 +43,19 @@ const nextConfig = {
     },
   },
 
+  // Suppress webpack warnings for Node.js APIs in Edge Runtime
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      config.resolve.fallback = {
+        ...config.resolve.fallback,
+        fs: false,
+        net: false,
+        tls: false,
+      };
+    }
+    return config;
+  },
+
   // Security headers now handled by middleware.ts with nonce support
 
   // Redirects for common patterns

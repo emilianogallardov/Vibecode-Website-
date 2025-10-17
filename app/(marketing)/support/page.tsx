@@ -14,7 +14,7 @@ export default function SupportPage() {
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-6">Support</h1>
         <p className="text-xl text-gray-600 mb-12">
-          We're here to help. Choose the best way to get support for your needs.
+          We&apos;re here to help. Choose the best way to get support for your needs.
         </p>
 
         {/* Support Options */}
@@ -106,7 +106,7 @@ export default function SupportPage() {
               </summary>
               <p className="mt-4 text-gray-700">
                 Yes! The infrastructure is production-ready with A+ security, type safety, testing, and best practices.
-                You'll need to customize content and add your own business logic, but the foundation is solid.
+                You&apos;ll need to customize content and add your own business logic, but the foundation is solid.
               </p>
             </details>
 
@@ -226,7 +226,7 @@ export default function SupportPage() {
           <p>Monday - Friday: 9:00 AM - 6:00 PM EST</p>
           <p>Weekend: Limited support (24-48 hour response time)</p>
           <p className="mt-4 text-sm">
-            For urgent issues outside business hours, please mark your inquiry as "Urgent"
+            For urgent issues outside business hours, please mark your inquiry as &quot;Urgent&quot;
           </p>
         </section>
       </div>

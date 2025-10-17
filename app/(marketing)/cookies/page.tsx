@@ -151,7 +151,7 @@ export default function CookiesPage() {
             We use Google Analytics to understand how visitors use our site. Google may use this data
             for its own purposes. Learn more about{' '}
             <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-              Google's privacy policy
+              Google&apos;s privacy policy
             </a>.
           </p>
 
@@ -177,7 +177,7 @@ export default function CookiesPage() {
             We use Cloudflare Turnstile for CAPTCHA verification. Cloudflare may set cookies for bot detection.
             See{' '}
             <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-              Cloudflare's privacy policy
+              Cloudflare&apos;s privacy policy
             </a>.
           </p>
         </section>
@@ -204,7 +204,7 @@ export default function CookiesPage() {
 
           <h3 className="text-xl font-semibold mb-3 mt-6">5.1 Cookie Consent Banner</h3>
           <p className="mb-4">
-            When you first visit our site, you'll see a cookie consent banner. You can choose to:
+            When you first visit our site, you&apos;ll see a cookie consent banner. You can choose to:
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2">
             <li><strong>Accept All:</strong> Allows all cookies including analytics</li>
@@ -266,7 +266,7 @@ export default function CookiesPage() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">6. Do Not Track (DNT)</h2>
           <p className="mb-4">
-            Some browsers have a "Do Not Track" (DNT) feature that signals websites not to track you.
+            Some browsers have a &quot;Do Not Track&quot; (DNT) feature that signals websites not to track you.
             We respect DNT signals and will not load analytics cookies if DNT is enabled.
           </p>
         </section>
@@ -278,7 +278,7 @@ export default function CookiesPage() {
             We will notify you of significant changes by:
           </p>
           <ul className="list-disc pl-6 mb-4 space-y-2">
-            <li>Updating the "Last Updated" date</li>
+            <li>Updating the &quot;Last Updated&quot; date</li>
             <li>Displaying a notice on the website</li>
             <li>Requesting new consent if required by law</li>
           </ul>
@@ -308,9 +308,9 @@ export default function CookiesPage() {
         <div className="bg-gray-100 p-6 rounded-lg mt-12">
           <h3 className="text-lg font-semibold mb-2">Summary (TL;DR)</h3>
           <ul className="list-disc pl-6 space-y-1 text-sm">
-            <li>Essential cookies required for login and security (can't be disabled)</li>
+            <li>Essential cookies required for login and security (can&apos;t be disabled)</li>
             <li>Analytics cookies optional (can be disabled)</li>
-            <li>We respect "Do Not Track" browser settings</li>
+            <li>We respect &quot;Do Not Track&quot; browser settings</li>
             <li>You can manage cookies via our banner or browser settings</li>
             <li>Third-party cookies from Google Analytics, OAuth providers</li>
           </ul>

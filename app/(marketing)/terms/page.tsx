@@ -18,7 +18,7 @@ export default function TermsPage() {
         </p>
 
         <p className="mb-6">
-          Please read these Terms of Service ("Terms") carefully before using our service.
+          Please read these Terms of Service (&quot;Terms&quot;) carefully before using our service.
           By accessing or using the service, you agree to be bound by these Terms.
         </p>
 
@@ -99,7 +99,7 @@ export default function TermsPage() {
 
           <h3 className="text-xl font-semibold mb-3 mt-6">5.1 Your Content</h3>
           <p className="mb-4">
-            You retain ownership of any content you submit to the service ("User Content").
+            You retain ownership of any content you submit to the service (&quot;User Content&quot;).
             By submitting User Content, you grant us a non-exclusive, worldwide, royalty-free license
             to use, reproduce, modify, and distribute your content solely to provide the service.
           </p>
@@ -186,7 +186,7 @@ export default function TermsPage() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">9. Disclaimers</h2>
           <p className="mb-4 uppercase">
-            <strong>THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND,
+            <strong>THE SERVICE IS PROVIDED &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; WITHOUT WARRANTIES OF ANY KIND,
             EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
             A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</strong>
           </p>
@@ -237,7 +237,7 @@ export default function TermsPage() {
           <ul className="list-disc pl-6 mb-4 space-y-2">
             <li>Email notification to your registered email</li>
             <li>Prominent notice on the service</li>
-            <li>Updated "Last Updated" date at the top of this page</li>
+            <li>Updated &quot;Last Updated&quot; date at the top of this page</li>
           </ul>
           <p className="mb-4">
             Your continued use of the service after changes indicates acceptance of the updated Terms.
@@ -321,9 +321,9 @@ export default function TermsPage() {
           <h3 className="text-lg font-semibold mb-2">Summary (TL;DR)</h3>
           <ul className="list-disc pl-6 space-y-1 text-sm">
             <li>Use the service lawfully and responsibly</li>
-            <li>Don't abuse, hack, or spam the service</li>
+            <li>Don&apos;t abuse, hack, or spam the service</li>
             <li>You own your content, we own the platform</li>
-            <li>Service provided "as is" with no guarantees</li>
+            <li>Service provided &quot;as is&quot; with no guarantees</li>
             <li>We can terminate accounts for violations</li>
             <li>Disputes resolved through arbitration</li>
           </ul>

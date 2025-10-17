@@ -330,7 +330,7 @@ NEXT_PUBLIC_SITE_URL="https://yourdomain.com"`}
         <section className="bg-blue-50 rounded-lg p-8 text-center">
           <h2 className="text-2xl font-bold mb-4">Need Help?</h2>
           <p className="text-gray-700 mb-6">
-            Can't find what you're looking for? Our support team is here to help.
+            Can&apos;t find what you&apos;re looking for? Our support team is here to help.
           </p>
           <Link
             href="/support"
